@@ -5,22 +5,18 @@ body{
 	height: auto;
     background: black;
 }
-#menu{
-  width: 100%;
-  height: 500px;
-  background-image: url("../images/b_img.jpg");
+.container{
+	margin: inherit;
+    width: inherit;
 }
-#img1{
-  margin-left: 47%;
-  margin-top: 15%;
-}
-#img2{
-  margin-left: 49%;
-  margin-top: 2%;
-}
-#one{
-  color: white;
-  margin-left: 45%;
+.first-text{
+	background: transparent;
+	font-weight: bold;
+    text-align: center;
+    font-size-adjust: auto;
+    font-size: 60px;
+    color: white;
+    text-emphasis:bold;
 }
 #two{
   color: white;
