@@ -1,3 +1,6 @@
+body{
+  font-family: 'Libre Baskerville', serif;
+}
 #menu{
   width: 100%;
   height: 600px;
@@ -21,4 +24,11 @@
 }
 #menu{
   display: block;
+}
+#about{
+  width: 70%;
+  margin: 10px 15%;
+}
+#about h1{
+  margin-left: 36%;
 }
