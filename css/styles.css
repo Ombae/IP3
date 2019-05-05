@@ -38,3 +38,10 @@ body{
   background-image: url("../images/s_image.jpg");
   color: #ffffff;
 }
+#services h1{
+  margin-left: 40%;
+  margin-top: 10%;
+}
+#services p{
+  margin-left: 2%;
+}
