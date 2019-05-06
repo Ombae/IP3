@@ -39,16 +39,21 @@ body{
     font-size-adjust: auto;
 
 }
-#services{
-  width: 100%;
-  height: 300px;
-  background-image: url("../images/s_image.jpg");
-  color: rgb(255, 255, 255);
+.section3{
+    height: 300px;
+    background: url(assets/s_image.jpg) no-repeat;
 }
-#services h1{
-  margin-left: 40%;
-  margin-top: 10%;
+.third-text{
+    text-align: center;
+    background: transparent;
+    color: white;
 }
-#services p{
-  margin-left: 2%;
+.fourth-text{
+    text-align: center;
+    color: white;
+    font-weight: 200;
+}
+.section4{
+    background: whitesmoke;
+    height:auto;
 }
